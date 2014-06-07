@@ -6,10 +6,18 @@ body {
   width: 100%;
 }
 
+.logo {
+  height: 20%;
+  width: 20%;
+}
 .vert-text {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
+}
+
+h3 {
+  font-family: cursive
 }
 
 .vert-text h1 {
