@@ -11,6 +11,12 @@ body {
   width: 40%;
 }
 
+.google {
+  position: absolute;
+  left: 45%;
+  top: 75%;
+}
+
 .down {
   width: 100px;
   height: 100px;
