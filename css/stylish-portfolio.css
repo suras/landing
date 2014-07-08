@@ -11,6 +11,12 @@ body {
   width: 40%;
 }
 
+.ambass {
+  float: right;
+  padding-right: 18px;
+  padding-top: 7px;
+}
+
 .google {
   position: absolute;
   left: 45%;

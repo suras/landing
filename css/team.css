@@ -1,0 +1,27 @@
+.cert {
+  text-align: center;
+}
+
+.t_img {
+
+	height: 213px;
+	width: 200px;
+}
+
+.t_align {
+
+	text-align: center;
+}
+
+.t_logo {
+		height: 165px;
+	width: 400px;
+}
+
+.n_pad{
+   padding-bottom: 8px;
+}
+
+.d_pad {
+	padding-top: 1px;
+}
